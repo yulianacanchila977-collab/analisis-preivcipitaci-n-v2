@@ -1,0 +1,15 @@
+---
+title: "ANALISIS-PRECIPITACION-V2"
+author: "YULIANITA"
+date: "2025-09-24"
+output: html_document
+---
+ ANÁLISIS DE PRECIPITACIÓN - INGENIERÍA
+ ------------------------------------
+# 1. Cargar librerías
+ Si no están instaladas, la primera vez debes correr: install.packages("tidyverse")
+ 
+ 
+```{r}
+library(tidyverse)
+library(lubridate)
